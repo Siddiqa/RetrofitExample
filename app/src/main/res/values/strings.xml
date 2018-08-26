@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="icon_home">&#xf077;</string>
+    <string name="icon_like">&#xf004;</string>
+    <string name="alarm">&#xf0a2;</string>
+    <string name="imagetransition">image</string>
+    <string name="fragment_image_trans">fragment_image_transition</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash2">Earn rewards as you drink at your local bar.Spend a minimum of $10.00 to earn a cube.5 Cunes accumulated earn you a reward.</string>
+    <string name="splash3">Don\'t wait on crowded bars or use your credit cards anymore to make payments.Stir up lets you pay by phone for your drinks and automatically recieve rewards.</string>
+    <string name="splash4">Your tab is automatically open at the bar when you walk in. Gibe the bar tender the "Stir out" when you are ready to  pay your bill.</string>
+    <string name="splash5">Looking out for a Happy hours drinks? Stir up keeps you upto date with events at each bar.</string>
+    <string name="splash2title">Collect Cubes &amp; Earn \n Rewards</string>
+</resources>

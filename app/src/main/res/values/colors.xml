@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#95ceae</color>-->
+    <!--<color name="colorPrimaryDark">#588d71</color>-->
+    <!--<color name="colorAccent">#7ac19b</color>-->
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#33b5e5</color>
+    <color name="colorRipple">#8d6e6e87</color>
+    <color name="transparent">#00000000</color>
+    <color name="touch_overlay">#504040f0</color>
+    <color name="touch_overlay_ripple">#d03a9791</color>
+</resources>
